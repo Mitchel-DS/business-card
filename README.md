@@ -4,50 +4,17 @@ In this course you will learn to build a web application without frameworks or u
 
 ## Live demos
 
-[live demo - visitekaartje](https://mitchel-ds.github.io/web-app-from-scratch-2223/visitekaartje/index.html)
-[live demo - rijksmuseum](https://mitchel-ds.github.io/web-app-from-scratch-2223/rijksmuseum/index.html)
+Live demo for [business card.](https://mitchel-ds.github.io/web-app-from-scratch-2223/visitekaartje/index.html)
 
-<!-- ☝️ replace this description with a description of your own work -->
 ## What is this project?
-
-In this project I will be making a web app that shows the collection of the Rijksmuseum. The user can search for a specific object and filter the objects by category. The user can also click on an object to see more information about the object.
-
-![rijkspreview]()
 
 ## Table of contents
 
-
 ## How to use project?
-1. Clone the repository
-2. Open the rijksmuseum/index.html file in your browser
 
 ## External data source
-This project uses the [Rijksmuseum API](https://data.rijksmuseum.nl/object-metadata/api). 
 
 ## To-do list
-
-### MUST HAVE
-- [x] Minor home screen
-- [x] Add minor styling
-- [x] Create fetch to api
-- [x] Fetch data
-- [x] Display data	
-- [ ] Add router
-- [ ] Add modules
-- [ ] Update readme
-- [ ] Make search function
-- [ ] Add loading state
-- [ ] Add error state
-- [ ] Add empty state
---
-- [ ] Make activity diagram
-- [ ] Make wireflow
-
-### SHOULD HAVE
-- [ ] Add filter function
-- [ ] Add detail page
-- [ ] Add detail page styling
-- [ ] Make website responsive
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
